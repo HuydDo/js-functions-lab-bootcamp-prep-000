@@ -15,7 +15,3 @@ function holidayCountdown(holiday,days){
   return `It's ${days} days until ${holiday}!`
 }
 
-happyHolidays();
-happyHolidaysTo("Huy")
-happyHolidaysTo("Easter","Huy")
-holidayCountdown("Easter",1)
